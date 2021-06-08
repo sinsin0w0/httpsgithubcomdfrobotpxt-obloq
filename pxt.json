@@ -1,0 +1,22 @@
+{
+    "name": "https://github.com/DFRobot/pxt-Obloq",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "Obloq": "github:matthewtszholaw/mqtt_v1.10#953f5c6d68483705c5fe8adbf1cea3c4ae292205"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
